@@ -12,7 +12,7 @@ import { store } from './store/store';
 import { stripePromise } from './utils/stripe/stripe.utils';
 
 import './index.scss';
-import { stripePromise } from './utils/stripe/stripe.utils';
+
 
 const rootElement = document.getElementById('root');
 
