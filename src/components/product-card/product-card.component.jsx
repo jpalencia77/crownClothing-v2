@@ -34,7 +34,7 @@ const ProductCard = ({ product }) => {
       </Button>
     </ProductCartContainer>
 
-    //perro
+    
   );
 };
 
