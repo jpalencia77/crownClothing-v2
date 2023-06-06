@@ -23,3 +23,4 @@ export const ItemDetails = styled.div`
     font-size: 16px;
   }
 `;
+
